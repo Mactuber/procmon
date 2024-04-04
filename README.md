@@ -1,4 +1,4 @@
-# procmon
+# PROCMON
 Ambos scripts son útiles dependiendo de lo que necesites monitorear. Vamos a analizar las diferencias y qué aspectos podrían influir en tu elección:
 
 Script 1:
